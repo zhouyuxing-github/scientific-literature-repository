@@ -1,0 +1,164 @@
+牛鼻病毒(BRAV、BRBV)相关文献
+Mohanty S B , Lillie M G . Isolation of a bovine rhinovirus.[J]. Proceedings of the Society for Experimental Biology & Medicine Society for Experimental Biology & Medicine, 1968, 128(3):850. 1968：
+美国发现的第一例牛鼻病毒
+鸡比豚鼠和兔子更适用于产生抗牛鼻病毒血抗体
+人鼻病毒和牛血清之间存在一定交叉反应
+
+Reed S E , Tyrrell D , Betts A O , et al. Studies on a rhinovirus (EC11) derived from a calf. I. Isolation in calf tracheal organ cultures and characterization of the virus[J]. Journal of Comparative Pathology, 1971, 81(1):33,IN7-40,IN7. 1971：
+作者从英国一头SPF Jersey牛肺脏中分离 EC11毒株（其实为BRBV）并研究了其理化性质
+最初BRV在细胞上传代失败，但经过组织传代，这种病毒开始适应牛肾细胞传代了
+在猴和人的细胞组织上不能培养，不被认为可以感染人
+传代细胞不能培养这个病毒，但是组织培养是可以的
+（sd-1是BRAV，由Bijgel and Bijhm分离）sd-1的抗毒血清不能中和EC11毒株
+
+Ide P R , Darbyshire J H . Studies with a rhinovirus of bovine origin[J]. Arch Gesamte Virusforsch, 1972, 37(1):243-252.(鼻病毒明确分型的文章) 1972：
+Sd-1, 181/V, C-07, RS3x之间存在交叉免疫反应，是同一种血清型，而EC11不与先前的任何BRV有交叉免疫反应，因此作者认为可以按照血清学把BRV划分为两个类群
+人鼻病毒有上百种血清型；人鼻病毒type35灭活后打给牛后收获血清可以中和人鼻病毒type3和type14，然而人鼻病毒type35灭活后打给人不能交叉保护人鼻病毒type3和type14{Absence of heterologous antibody responses in human volunteers after rhinovirus vaccination}
+Sd-1德国 (BOGEL and BOHM, 1962),  181/V 德国(WIZIGMANN and SCHIEFER, 1966), C-07美国 (MoHANTY and LILLIE 1968)，RS3x英国 (IDE abd DARBYSHIRE, 1969)L， EC11英国 (REED... 1971)，全都是通过血清中和实验来确定型
+
+Yamashita H ,  Akashi H ,  Inaba Y . Isolation of a new serotype of bovine rhinovirus from cattle[J]. Archives of Virology, 1985, 83(1):113-116. 1985：
+在只有血清学没有分子学的时候都叫rhinovirus type1、type2; 
+sd-1是type1(BRAV原型)、EC11是type2(BRBV原型)
+bovine rhinovirus1=bovine rhinitis A
+bovine rhinovirus2=bovine rhinitis B
+作者分离了6株BRV (命名为H-1~H-6)，发现它们与BRAV、BRBV的原型毒株（sd-1、EC11）均无血清学交叉反应，猜测为一种新的血清型；(我：然而随着测序技术的诞生，H-1毒株被测序，在基因组上与BRAV聚为一类，与Genbank中8条BRAV全基因组序列平均相似性为83.45%，与13条BRBV核酸序列无法对位排列整齐，勉强计算核酸平均相似性为51.89%。后来Ben M. Hause还是把它们划分为BRAV-2 {Bovine Rhinitis Viruses Are Common in U.S. Cattle with Bovine Respiratory Disease}）
+作者对日本发生严重呼吸道疾病的牛群进行研究，通过中和实验证明了32/38都可以被sd-1毒株的血清中和，是BRAV感染；剩余6株新血清型牛鼻病毒与BRV type1、type2(即BRAV、BRBV)均无交叉反应(命名为H-1 ~ H-6)，推测为新的牛鼻病毒
+血清型之间无交叉保护性
+
+1975 ~ 1981年，山下秀之（yamashita）从有呼吸道症状的病牛鼻液中分离到38株BRV，其中有32株为BRV-1，其它6株同为一个未知的血清型，既非BRV-1，也非BRV-2。这38株BRV的CPE与BRV-1、BRV-2的CPE几乎一致，都是在接种3~7天开始出现于单层细胞的一部分，可见呈圆形的颗粒状细胞。BRV分利率最高的牛群的症状为发烧40~41℃、鼻漏、咳嗽、
+
+{Ein rhinovirus des rindes} 1962
+Bögel等人于1962年在德国一头患有鼻炎的犊牛鼻腔分泌物中首次分离到第一株鼻病毒BRAV-1
+
+{Isolation of a bovine rhinovirus} 1968
+在美国首次鉴定并分离bovine rhinovirus并做了理化性质研究，发现不耐酸、氯仿无影响、对FUDR不敏感(RNA型核酸)、33℃比37℃长势更好
+
+{Studies on a rhinovirus (EC11) derived from a calf. I. Isolation in calf tracheal organ cultures and characterization of the virus} 1971
+
+
+
+{Isolation of a new serotype of bovine rhinovirus from cattle} 1985
+Yamashita等人在日本1984年爆发的BRDC疫情中分离出BRAV-2
+
+{A metagenomics study and case control study to identify viruses associated with bovine respiratory disease} 2015
+作者利用宏基因组和PCR方法对加利福尼亚BRD奶牛和健康奶牛进行了病毒检测，发现BRD组中68%的牛检测到了病毒，而健康组中仅16%的牛检测到了病毒。在BRD组中，38%的牛存在混合感染，而健康组中仅8%的牛存在混合感染。基于对hits数的统计，发现BRAV的丰度最高，达到11'109个reads，而BRBV有2639个reads。疾病组的BRAV阳性率为30%(15/50)，健康组为8%(4/50)，BRAV与疾病的相关性较显著，P=0.009。疾病组的BRBV-BSRI1 阳性率为8%(4/50)，BRBV-BSRI2 阳性率为10%(5/50)，健康组各为2%(1/50)。牛鼻病毒A、B两型与BRD的发生紧密相关。感染了BRAV或BRBV的病例中，BRAV、BRBV混合感染率为7.14%(2/28)；感染了BRAV或BAdV3的病例中，BRAV、BAdV3混合感染率为37.14%(13/35)。BRAV、BRBV、ERAV、FMDV为口蹄疫病毒属的4成员。已知 BRAV 可以划分为3种血清型(55)，有的BRAV之间存在交叉反应，而有的BRAV之间不存在
+
+ {Metagenomic characterization of the virome associated with bovine respiratory disease in feedlot cattle identified with novel viruses and suggests and etiologic role for influenza D virus} 2016
+作者从墨西哥6个BRD牛群和美国堪萨斯州4个BRD牛群收集样本，采集发病牛及同群无症状牛的鼻拭子共103份，进行宏基因组测序，鉴定出了21种病毒，阳性率从高到低为：BRAV (52.7%), BRBV (23.7%),和 BoCV (24.7%)。根据case-control对比做风险分析，发现influenza D virus(IDV) 与BRD最相关，BoHV1, BVDV, PI3V, and BRSV 相关性依次减小 
+
+{Respiratory viruses identified in western Canadian beef cattle by metagenomics sequencing and their association with bovine respiratory disease} 2019
+作者收集了加拿大西部地区肉牛养殖场的鼻拭子和气管冲洗液，BRD和非BRD样本共116份，通过宏基因组测序鉴定出21种病毒。通过做case-control对比，发现与BRD症状关联的病原中，显著性从大到小分别为：IDV (P＜.015), BRBV (P＜.02), BRSV (P＜.022), BoCV (P＜.021)
+
+
+
+
+病毒源头更新 | 石正丽向Nature正式提交新冠病毒源头补充材料
+
+
+2020年11月17日，石正丽团队正式向Nature提交了RaTG13的详细来源。该病毒来自2012年到2015年该课题组对云南省墨江县通关镇矿井的采样。
+
+《Addendum: A pneumonia outbreak associated with a new coronavirus of probable bat origin》
+2020年2月3日，NATURE杂志加速评审了来自中科院武汉病毒所石正丽研究员的新冠病毒可能的来源研究报告，初步揭示了蝙蝠作为新型冠状病毒的宿主来源以及血管紧张素转换酶II（ACE2）作为其进入细胞的受体（相关研究请参考https://www.nature.com/articles/s41586-020-2012-7）。
+
+石正丽团队在文中指出，中华菊头蝠是SARS-CoV 2的自然宿主，而目前分离到的COVID-19非常可能来源于蝙蝠的SARS-like重组病毒。而经宏基因组测序后，石正丽发现，目前流行的COVID-19复制酶的序列和他们实验室之前在蝙蝠里分离到的一个蝙蝠冠状病毒毒株RaTG13相似度非常高，整体基因组相似度高达96.2%。但与受体结合的S基因部分与其他常见SARS-like冠状病毒的差别非常的大。带着这个疑问，石正丽团队随后针对S基因设计了特异性引物，进行RT-qPCR检测，发现这几个患者的早期样本（肺泡灌洗液和咽拭子）都能检测到，但是在后期，无论是咽拭子、肛拭子还是血液都检测不到了，进而推测病毒是呼吸道传播的（但不排除其他途径）。文中石正丽团队肯定了COVID-19的来源应该是和实验室分离株RaTG13属于同一个类群，只是在不经意间突破了种属屏障，并最终感染了人。但是，对RaTG13的详细来源却没有在文章中体现。
+在2012年7月1日至10月1日之间，石正丽团队从4例严重呼吸道疾病患者（其中一位已故）中收集了13份血清样本。这些患者在2012年4月26日至27日接受昆明医学院第一附属医院治疗之前，曾进入过中国云南省墨江县通关镇的一个矿洞，以清理蝙蝠粪便以开采铜。石正丽团队收到的样本是在2012年6月，7月，8月和9月由医院工作人员收集的。为调查呼吸系统疾病的原因，石正丽团队使用了自己实验室针对RNA依赖的RNA聚合酶（RdRp）开发的PCR方法对样本进行了测试。结果显示，埃博拉病毒，尼帕病毒和蝙蝠SARSr-CoVRp3的所有样本均呈阴性。除此之外，团队还测试了血清样品中是否存在针对这三种病毒的核衣壳蛋白的抗体，同样结果里没有一个样品显示阳性。就在近期，研究团队用自己实验室开发的酶联免疫吸附试验（ELISA）测试了对这种新型SARS冠状病毒2（SARS-CoV-2）核衣壳蛋白（该蛋白与蝙蝠SARSr-CoV Rp3的氨基酸序列同一性超过90％）的反应情况，结果确认这些患者未感染SARS-CoV-2。
+至此，石正丽团队怀疑患者是被未知病毒感染。因此，科研团队和其他小组一同在洞穴内及其周围对包括蝙蝠，大鼠和麝香在内的动物进行了采样，发现了一些甲型冠状病毒和副粘病毒。在2012年至2015年之间，石正丽的研究小组每年在这个洞穴中对蝙蝠进行一到两次的采样，共收集了1,322个样本。从这些样品中，团队共检测到293种高度多样性的冠状病毒，根据部分RdRp序列将其中的284种命名为α冠状病毒，将9种命名为β冠状病毒。而这9种β冠状病毒全部是SARSr-CoV，其中一种（样本ID4991；在我们的文章中更名为RaTG13以反映蝙蝠的种类、位置和采样年份）在2016年的文章中进行了描述（请参考Ge, X. Y. et al.Coexistence of multiple coronaviruses in several bat colonies in an abandonedmineshaft. Virol. Sin. 31, 31–40 (2016).）。ID4991的部分RdRp序列（370 bp）于2016年上传在GenBank中，登录号为KP876546。基于部分RdRp序列，所有鉴定出的蝙蝠SARSr-CoV都与SARS-CoV远距离相关。2018年，随着实验室中下一代测序技术和能力的提高，我们对这些蝙蝠病毒进行了进一步测序，并获得了RaTG13的几乎全长基因组序列（无5'和3'端）。在2020年，我们将SARS-CoV-2序列与未发表的蝙蝠冠状病毒序列进行了比较，发现它与RaTG13具有96.2％的同一性。
+论文链接：
+
+https://www.nature.com/articles/s41586-020-2951-z
+
+诺奖技术和高通量筛选双双找到新冠病毒的脉门（病毒"移码"事件）
+
+病毒依赖于其感染的细胞进行自身复制和进一步地入侵细胞、感染其它个体（用白眼狼称呼病毒不足为过）。病毒生命周期中一个重要的环节是根据其基因组指导合成新的病毒蛋白。这依赖于病毒感染的细胞中的核糖体作为蛋白合成机器。
+在没有病毒感染的正常细胞中，核糖体沿着mRNA遵循严格限定的步伐-三个核苷酸构成的密码子进行移动。核糖体通常不会向前或向后移动1个或2个核苷酸的距离，这会造成“移码”现象，导致错误的翻译行为。但是冠状病毒和艾滋病病毒依赖特定的“移码”事件调节其病毒蛋白的水平。
+
+▲冠状病毒后移一位，合成多聚蛋白ORF1ab
+既然这个“移码”事件是病毒感染后特有的，探索其发生机制和筛选小分子抑制这一事件将有利于病毒抑制药物的研发。
+苏黎世联邦理工学院研究团队采用冷冻电镜技术观察到病毒RNA通过自身“打结 (pseudokot)”的方式诱导核糖体“移码”事件的发生，并发现和验证了一个小分子美拉沙星(merafloxacin)可以降低细胞中新冠病毒的滴度，可作为潜在的药物分子。这一发现于2021年5月13日发表于Science杂志。
+
+▲病毒RNA（黄色）会“打一个小结(pseudoknot)”（右下方，颜色最丰富的地方），产生张力，促进“移码”发生（绿色为tRNA，灰白色为核糖体，图片来源: Said Sannuga, Cellscape.co.uk / ETH Zurich, The Ban Lab）
+▲Youtube
+另外，在2020年10月21日，耶鲁大学Junjie U Guo教授通过设计荧光素酶报告基因高通量筛选的方式，发现小分子化合物美拉沙星可以抑制核糖体“移码”事件，进而抑制新冠病毒的复制，记录于bioRxiv网站。很巧妙的策略。
+
+一个是高大上的技术，一个是精巧的试验筛选，殊途同归。
+而这个小分子Merafloxacin (1-ethyl-7-[3-(ethylaminomethyl)pyrrolidin-1-yl]-6,8-difluoro-4-oxoquinoline-3-carboxylic acid)的研究却不多，也许改造下可以成药，造福社会。
+
+Reference
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7587830/
+https://science.sciencemag.org/content/early/2021/05/12/science.abf3546
+https://ethz.ch/en/news-and-events/eth-news/news/2021/05/the-achilles-heel-of-the-coronavirus.htmlhttps://pubchem.ncbi.nlm.nih.gov/compound/Merafloxacin
+
+前沿文献 | 海南2019登革热分子流行病学研究
+
+引言
+2021年3月，海南医学院热带医学热带病病原菌疫苗研究团队以热带转化医学教育部重点实验室为第一单位，在中科院2区期刊《Frontiers in microbiology》（影响因子4.23）上发表了一篇文章。该文章由海南医学院、海南医学院附属海南医院，以及华大因源通力合作完成，通讯作者是海南医学院热带转化医学教育部重点实验室夏乾峰教授、海南医学院附属海南医院林峰教授和华大因源陈唯军教授。该文章对2019年海南省登革热疫情的临床和流行病学特征进行了研究。通过流行病学调查，表明此次暴发的1型登革热病例均表现为轻度临床症状，疫情可能起源于海口市秀英地区的工人，然后形成集中暴发，最后扩散开来。通过贝叶斯系统发育学结果和流行病学数据，发现海南省登革热流行呈现两种重要模式：疫情首先由输入性病例引起，然后在自然疫源地发生内源性疫情。
+01丨研究背景
+在中国过去十几年里，虽然输入性登革热疫情经常在部分省份引起局部暴发，但海南岛自1991年以来并没有大规模的登革热疫情。2019年9月初，海口市秀英区五源河地区相继有多名工人出现发热，乏力、出疹等症状。9月5日海南省人民医院利用华大因源PMseq病原微生物高通量基因检测确诊了第一例登革热患者，随后确诊了多名登革热病例，确认了本地登革热疫情的暴发。
+02丨研究方法
+对2019年9月5日至2019年10月17日海南省登革热患者进行分子流行病学调查，研究本次疫情的起源。
+对患者血清进行登革热病毒的RT-PCR检测。
+对于高浓度的样本（CT值小于24），结合人源RNA去除技术、基因组扩增技术，采用RNA-seq直接进行深度测序，根据内标含量，计算测序深度，使测序深度达到50X以上，完成区域代表性感染病毒、相同区域不同感染时间的基因组测序。
+对不同区域代表性毒株的系统进化进行溯源性分析。
+03丨研究结果
+
+患者的临床表现及地理分布
+
+此次暴发的1型登革热病例均表现为轻度临床症状，主要临床表现为发热、头痛和肌肉酸痛，少数患者有腹痛、腹泻和皮疹，但症状轻，无淤斑、出血和肝脾肿大等，无登革出血热，无死亡率，所有患者经治疗后均痊愈。
+此次疫情主要集中在海口市秀英区的五源河地区，形成集中暴发，然后扩散开来。2019年9月5日至10月17日海南省累计报告本地病例264例，其中秀英区182例，琼山区36例，龙华区13例，美兰区9例，文昌市7例，儋州市3例，陵水市10例，万宁市3例，澄迈市1例。
+
+分子溯源分析
+
+流行病学调查表明，疫情可能起源于海口市秀英区的工人。贝叶斯系统发育进化树的结果和流行病学数据被用来推断登革热病毒在海南潜在传播的一系列事件，并追踪可能的来源。其结果显示，海南2019年登革热毒株的序列与邻近广东省的登革热毒株序列同源性最高，这支持了登革热病毒从广东省输入，然后传播到海南省的假设。研究表明，2019年海南省登革热流行呈现两种重要模式：疫情首先由输入性病例引起，然后在自然疫源地发生内源性疫情。
+
+04丨结果讨论
+登革热的传播动态取决于宿主、病毒、媒介和环境因素。考虑到海南特殊的地理条件和蚊子飞行距离的限制范围，游客和外来务工人员的增加在登革热的传播中发挥关键作用。根据病例流行病学调查和临床表现，初步确定为输入性病例引起的本地登革热暴发。我们推测，本次疫情起源于海口市秀英区五源河地区的工人，这是一个人口密度和流动性较高的城区，向邻近地区传播，引起集中暴发，然后向其他城市传播。
+在这项研究中，我们进行了分子流行病学和系统发育分析，并报道了登革热在特定岛屿背景下的传入和传播的有趣现象。对海南登革病毒遗传多样性进行了综述，并对流行区登革病毒的地理分布、动态传播和分子进化等方面提供了信息。此外，对输入性登革热病例的持续监测，有助于预防海南登革热的进一步暴发。
+参考文献
+
+Microbiol., 24 March 2021
+https://doi.org/10.3389/fmicb.2021.657966
+
+
+非结构蛋白可以做疫苗,且能避免抗体依赖性增强
+
+2016年巴西有150万人感染了寨卡病毒
+无论面对的是目前仍在全球兴风作浪的新型冠状病毒（SARS-CoV-2），还是曾一度威胁巴西奥运会的寨卡病毒，人类能做的只能是直面挑战。最近，中国科学院广州生物医药与健康研究院的一项研究成果，有望弥补目前尚无针对寨卡病毒特效药物与疫苗的缺憾，为防止其再度大流行带来曙光。
+寨卡病毒为黄病毒科黄病毒属病毒，和登革病毒、黄热病毒等同种属。同其它黄病毒相似，寨卡病毒为单股正链RNA病毒，其基因组编码的3种结构蛋白——衣壳蛋白（C）、前体膜蛋白/膜蛋白（prM/M）、包膜蛋白（E）组装形成病毒颗粒。除结构蛋白外，还编码7种非结构蛋白（NS1、NS2A、NS2B、NS3、NS4A、NS4B、NS5），在不同阶段中参与调控病毒的生命周期。
+
+寨卡病毒可引发发热，皮疹，结膜炎，肌肉和关节疼痛等症状
+那么，寨卡病毒会引起何种症状呢？寨卡病毒病的潜伏期（从接触暴露到出现症状的时间）约为3至14天。感染寨卡病毒的大多数人不会出现症状，且症状一般较轻微，主要包括发热，皮疹，结膜炎，肌肉和关节疼痛，全身乏力，头痛，通常持续2到7天。
+值得注意的是，怀孕期间感染寨卡病毒会导致新生儿小头畸形和其他先天性异常，还会导致流产、死胎和早产等妊娠并发症。在成年人和较大的儿童中，寨卡病毒感染也会引发吉兰-巴雷综合征、脊髓炎等病症。
+
+怀孕期间感染寨卡病毒会导致新生儿小头畸形
+寨卡病毒主要通过蚊媒携带病毒并叮咬人群进行传播（主要为白纹伊蚊和埃及伊蚊，两种伊蚊分布区域极其广泛，在我国也有分布），此外也有输血传播、性传播、母婴传播、密切接触传播的风险。2013年起，寨卡病毒在美洲、东南亚等80多个国家或地区流行，对全球公共卫生造成重大威胁。2016年2月1日，世界卫生组织宣布将寨卡病毒列为全球紧急公共卫生事件，当年受疫情威胁的巴西有150万人感染了寨卡病毒，甚至有不少人呼吁取消奥运会。
+当下，虽然寨卡病毒疫情已逐渐消退，但由于其与登革病毒亲缘关系近、蚊媒相似、流行区域重叠，加上全球范围内群体免疫缺乏，并且尚无针对寨卡病毒的疫苗或特效药物，寨卡病毒疫情仍有可能卷土重来，重新在江湖上兴风作浪。
+非结构蛋白往往在病毒的感染复制中起关键作用，但不包裹或展示在病毒颗粒上，针对它们的抗体一般不引起ADE风险
+那么，为什么寨卡病毒的传说流传已久，我们却仍未能研发出相关的疫苗和特效药呢？
+现有寨卡疫苗研究，大多在临床前或临床研究早期，且因疫情的逐渐消退，较难开展大规模临床研究。此外，作为防控病毒感染的重要手段，抗体药物的研发一直是研究的热点，但由于药物研究难度较大，当前仍无可获准上市的特效药物。而让疫苗研发难上加难的，就在于研发寨卡病毒疫苗及其他黄病毒疫苗（如登革）要面临ADE效应带来的风险。
+ADE（Antibody-Dependent Enhancement），意为抗体依赖性增强。相对通俗的解释是，病毒在感染细胞时，由于某些原因，体内已有的识别病毒的抗体会增强病毒的感染能力，最终导致病情加重。就寨卡病毒等黄病毒而言，针对病毒结构蛋白（比如prM、E等）的抗体，是导致ADE风险的罪魁祸首。
+由于包膜蛋白E是中和抗体的主要靶点，现有疫苗研究及单抗研究中多集中于该蛋白。但其为结构蛋白，其抗体可能产生ADE风险。目前唯一上市的四价登革疫苗Dengvaxia就是以结构蛋白prM/E为抗原靶标，然而该疫苗在菲律宾的接种计划因发生了严重ADE 事件而被迫终止——当时发现无登革既往感染史的儿童接种该疫苗后，比未接种者更易出现严重的登革热并发症，并导致多名儿童死亡，可谓巨大的悲剧。
+有鉴于此，科学家正在努力寻求解决ADE问题的策略。一方面，可以诱导针对多种黄病毒E蛋白的广谱、长效、高水平的抗体反应；另一方面，探索针对其他病毒蛋白如非结构蛋白的抗体，这是因为，非结构蛋白往往在病毒的感染复制中起关键作用，但不包裹或展示在病毒颗粒上，针对它们的抗体一般不引起ADE风险。
+
+ADE效应示意图（图片来源：刘兴龙）
+你的防骗好友
+非结构蛋白NS1抗体已上线
+有思路，问题也就有了解决的可能。
+在中国科学院广州生物医药与健康研究院前期寨卡疫苗的研究中，发现添加非结构蛋白NS1可提高候选疫苗的免疫保护效果，并率先发现寨卡NS1抗体具有抗病毒作用。此外，有几个团队在寨卡及其它黄病毒的研究中发现，针对非结构蛋白1（NS1）的抗体具有保护作用。
+于是，科研人员从寨卡感染康复者体内克隆得到一批NS1单克隆抗体。在对动物模型的研究中发现，有3株NS1单抗具有不同程度的保护效果，其中2株单抗与之前其它团队报道的NS1单抗不同，不仅可通过Fcγ受体（Fcγ受体是一类能与抗体恒定区[Fc]结合的细胞表面受体，在免疫功能及其调节中具有重要作用）依赖的途径（如抗体依赖的细胞介导的细胞毒性作用，ADCC）发挥保护作用，还可能经Fcγ受体非依赖的途径抑制病毒复制及子代病毒产生。这个发现拓展了对NS1单抗保护作用的认识，为研发无ADE风险的基于非结构蛋白NS1的治疗性抗体及预防性疫苗奠定基础，或可无需再承受“打了疫苗病情反而加重”的风险。
+
+两类寨卡病毒NS1抗体的抗病毒作用
+下一步，我们将继续探究NS1单抗的抗病毒分子机理，以期找到安全、有效的治疗策略；同时，还计划解析NS1抗体保护作用与表位识别的关系，找到比较有潜力的保护性表位（抗原决定基），探讨将其设计成为寨卡病毒疫苗的潜力。希望这些研究，可以为新一代黄病毒疫苗的研发提供参考。
+虽然针对寨卡病毒在内的黄病毒疫苗研发有了进展，但做好个人防护才最重要。比如，孕妇或计划怀孕的女性及其伴侣应尽量避免前往有寨卡疫情风险的国家或地区，在性接触时做好防护措施也可减少通过性行为的传播。
+参考文献：
+[1] Pierson T C, Diamond M S. The emergence of Zika virus and its new clinical syndromes. Nature, 2018, 560(7720): 573-581.
+ [2] Wang Q, Yan J, Gao G F. Monoclonal Antibodies against Zika Virus: Therapeutics and Their Implications for Vaccine Design. J Virol, 2017, 91(20): e01049-17.
+ [3] Bardina S V, Bunduc P, Tripathi S, Duehr J, Frere J J, Brown J A, Nachbagauer R, Foster G A, Krysztof D, Tortorella D, Stramer S L, García-Sastre A, Krammer F, Lim J K. Enhancement of Zika virus pathogenesis by preexisting antiflavivirus immunity. Science, 2017, 356(6334): 175-180.
+ [4] Halstead S B. Safety issues from a Phase 3 clinical trial of a live-attenuated chimeric yellow fever tetravalent dengue vaccine. Hum Vacc Immunother, 2018, 14(9): 2158-2162.
+ [5] Liu X, Qu L, Ye X, Yi C, Zheng X, Hao M, Su W, Yao Z, Chen P, Zhang S, Feng Y, Wang Q, Yan Q, Li P, Li H, Li F, Pan W, Niu X, Xu R, Feng L, Chen L. Incorporation of NS1 and prM/M are important to confer effective protection of adenovirus-vectored Zika virus vaccine carrying E protein. npj Vaccines, 2018, 3(1): 29.
+[6] Bailey M J, Duehr J, Dulin H, Broecker F, Brown J A, Arumemi F O, Bermúdez González M C, Leyva-Grado V H, Evans M J, Simon V, Lim J K, Krammer F, Hai R, Palese P, Tan G S. Human antibodies targeting Zika virus NS1 provide protection against disease in a mouse model. Nat Commun, 2018, 9(1): 4560.
+[7] Wessel A W, Kose N, Bombardi R G, Roy V, Chantima W, Mongkolsapaya J, Edeling M A, Nelson C A, Bosch I, Alter G, Screaton G R, Fremont D H, Crowe J E, Diamond M S. Antibodies targeting epitopes on the cell-surface form of NS1 protect against Zika virus infection during pregnancy. Nat Commun, 2020, 11(1): 5278.
+[8] Yu L, Liu X, Ye X, Su W, Zhang X, Deng W, Luo J, Xiang M, Guo W, Zhang S, Xu W, Yan Q, Wang Q, Cui Y, Wu C, Guo W, Niu X, Zhang F, Lei C, Qu L, Chen L, Feng L. Monoclonal Antibodies against Zika Virus NS1 Protein Confer Protection via Fcγ Receptor-Dependent and -Independent Pathways. mBio, 2021, 12(1): e03179-20.
+[9] Modhiran N, Song H, Liu L, Bletchly C, Brillault L, Amarilla A A, Xu X, Qi J, Chai Y, Cheung S T M, Traves R, Setoh Y X, Bibby S, Scott C A P, Freney M E, Newton N D, Khromykh A A, Chappell K J, Muller D A, Stacey K J, Landsberg M J, Shi Y, Gao G F, Young P R, Watterson D. A broadly protective antibody that targets the flavivirus NS1 protein. Science, 2021, 371(6525): 190-194.
+[10] Biering S B, Akey D L, Wong M P, Brown W C, Lo N T N, Puerta-Guardo H, Tramontini Gomes De Sousa F, Wang C, Konwerski J R, Espinosa D A, Bockhaus N J, Glasner D R, Li J, Blanc S F, Juan E Y, Elledge S J, Mina M J, Beatty P R, Smith J L, Harris E. Structural basis for antibody inhibition of flavivirus NS1–triggered endothelial dysfunction. Science, 2021, 371(6525): 194-200
+[11] https://www.cdc.gov/zika/symptoms/symptoms.html
+[12] https://www.highratedgabru.com/zika-virus-disease/
